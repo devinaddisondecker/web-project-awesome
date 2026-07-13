@@ -13,7 +13,7 @@ Built by the folks behind [Font Awesome](https://fontawesome.com/).
 
 Documentation: [webawesome.com](https://webawesome.com)
 
-Source: [github.com/shoelace-style/webawesome](https://github.com/shoelace-style/webawesome)
+Source: [](https://github.com/devinaddisondecker/web-project-awesome)
 
 Twitter: [@webawesomer](https://twitter.com/webawesomer)
 
@@ -55,7 +55,7 @@ To install a package specific to a Web Awesome package, change your working dire
 
 ### Forking the Repo
 
-Start by [forking the repo](https://github.com/shoelace-style/webawesome/fork) on GitHub, then clone it locally and install dependencies.
+Start by [forking the repo](http://github.com/devinaddisondecker/web-project-awesome/fork) on GitHub, then clone it locally and install dependencies.
 
 ```bash
 git clone https://github.com/YOUR_GITHUB_USERNAME/webawesome
