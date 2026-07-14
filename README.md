@@ -13,7 +13,7 @@ Built by the folks behind [Font Awesome](https://fontawesome.com/).
 
 Documentation: [webawesome.com](https://webawesome.com)
 
-Source: [](https://github.com/devinaddisondecker/web-project-awesome)
+Source: [github.com/devinaddisondecker/web-project-awesome](https://github.com/devinaddisondecker/web-project-awesome)
 
 Twitter: [@webawesomer](https://twitter.com/webawesomer)
 
